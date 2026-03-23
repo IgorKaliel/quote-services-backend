@@ -1,0 +1,7 @@
+packages:
+  - backend
+  - packages/*
+
+onlyBuiltDependencies:
+  - bufferutil
+  - esbuild
